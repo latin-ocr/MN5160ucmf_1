@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN5160ucmf_1_0006.png"; bbox 0 0 2500 3536; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 298 1217 654">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 217 166 1217 654">
+     <span class='ocr_line' id='line_1_1' title="bbox 217 298 1217 654; baseline -0.009 -59"><span class='ocrx_word' id='word_1_1' title='bbox 217 298 917 654; x_wconf 77' lang='lat' dir='ltr'>Niedner‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 985 300 1217 593; x_wconf 91' lang='lat' dir='ltr'>Ch</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 223 1283 1250 2060">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 1283 1250 2186">
+     <span class='ocr_line' id='line_1_2' title="bbox 223 1283 1250 1653; baseline -0.027 -85"><span class='ocrx_word' id='word_1_3' title='bbox 223 1283 1250 1653; x_wconf 81' lang='lat' dir='ltr'>Philosophia.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 223 1770 1249 2060; baseline 0.005 -5.182"><span class='ocrx_word' id='word_1_4' title='bbox 223 1770 1249 2060; x_wconf 60' lang='lat' dir='ltr'>Hfflmffifisso</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1 32 1267 3502">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1 32 1267 3502">
+     <span class='ocr_line' id='line_1_4' title="bbox 1 32 1267 3502; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1 32 1267 3502; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 220 2746 1209 3118">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 220 2746 1209 3118">
+     <span class='ocr_line' id='line_1_5' title="bbox 220 2746 1209 3118; baseline 0.01 -88"><span class='ocrx_word' id='word_1_6' title='bbox 220 2746 857 3118; x_wconf 77' lang='lat' dir='ltr'>Lipsiae,</span> <span class='ocrx_word' id='word_1_7' title='bbox 942 2755 1209 3039; x_wconf 79' lang='lat'>183</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
